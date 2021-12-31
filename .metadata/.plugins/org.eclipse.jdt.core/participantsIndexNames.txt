@@ -3,3 +3,5 @@ C:\Users\±è¿µµ·\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\js
 \BBS\src\main\java
 C:\Users\±è¿µµ·\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2098457759.index
 \BBS\src\main\java
+C:\Users\±è¿µµ·\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3539459880.index
+\BBS\src\main\java
