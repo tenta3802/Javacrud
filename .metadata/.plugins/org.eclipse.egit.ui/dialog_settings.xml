@@ -12,7 +12,7 @@
 		<item key="MAIN_SASH_FORM_ORIENTATION_VERTICAL" value="false"/>
 		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="499,500"/>
 		<item key="STAGING_SASH_FORM_WEIGHT" value="500,500"/>
-		<item key="sortItemState" value="false"/>
+		<item key="sortItemState" value="true"/>
 	</section>
 	<section name="GitCommitMessageComponent">
 	</section>
@@ -40,5 +40,26 @@
 			<item value="600"/>
 			<item value="400"/>
 		</list>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.fetch.FetchResultDialog.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="858"/>
+		<item key="DIALOG_Y_ORIGIN" value="206"/>
+		<item key="DIALOG_WIDTH" value="700"/>
+		<item key="DIALOG_HEIGHT" value="503"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.dialogs.MergeTargetSelectionDialog.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="618"/>
+		<item key="DIALOG_Y_ORIGIN" value="11"/>
+		<item key="DIALOG_WIDTH" value="706"/>
+		<item key="DIALOG_HEIGHT" value="857"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.merge.MergeResultDialog.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="532"/>
+		<item key="DIALOG_Y_ORIGIN" value="306"/>
+		<item key="DIALOG_WIDTH" value="879"/>
+		<item key="DIALOG_HEIGHT" value="323"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
 	</section>
 </section>
